@@ -1,4 +1,4 @@
-# make-coverage-badge
+# Fork: make-coverage-badge
 
 [![Build Status][travis-image]][travis-url]
 [![npm version][npm-image]][npm-url]
